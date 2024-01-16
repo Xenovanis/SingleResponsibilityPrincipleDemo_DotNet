@@ -1,0 +1,30 @@
+﻿<Properties DisableMonoRequiredInfoBar="True">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleUI/AccountGenerator.cs">
+    <Files>
+      <File FileName="ConsoleUI/Program.cs" Line="1" Column="1" />
+      <File FileName="ConsoleUI/Person.cs" />
+      <File FileName="ConsoleUI/PersonDataCapture.cs" />
+      <File FileName="ConsoleUI/PersonValidator.cs" />
+      <File FileName="ConsoleUI/StandardMessages.cs" Line="1" Column="1" />
+      <File FileName="ConsoleUI/AccountGenerator.cs" Line="14" Column="67" />
+      <File FileName="ConsoleUI/App.config" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SRPDemo" expanded="True">
+            <Node name="ConsoleUI" expanded="True">
+              <Node name="AccountGenerator.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
